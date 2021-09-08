@@ -4,7 +4,7 @@ Full Stack Developer
 
 ## Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/okan-berho%C4%9Flu-1073601a3/)
+[<img height="32" width="32" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" />](https://www.linkedin.com/in/okan-berho%C4%9Flu-1073601a3/)
 
 ## Techs I use
 
