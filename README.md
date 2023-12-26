@@ -17,4 +17,4 @@ Full Stack Developer
 <img align="left" height="60" width="60" src=https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png>
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okanberhoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+
